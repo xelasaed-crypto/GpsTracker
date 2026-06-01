@@ -1,3 +1,8 @@
+.idea/
+app/release/
+debug_keystore.jks
+
+
 *.iml
 .gradle
 /local.properties
